@@ -6,11 +6,21 @@
 In this project I faced a challenge to selcect the correct Naive Bayes Model .I tried the classic ones like The 
 # Gaussian Naive Bayes 
 
-![alt text](https://qph.ec.quoracdn.net/main-qimg-116dbe9be09978ff474ace041079d1a0)
+![Server fetching image down ](https://qph.ec.quoracdn.net/main-qimg-116dbe9be09978ff474ace041079d1a0)
 
 and 
 
 # Multinomial Naive Bayes
+
+![Server fetching image down ](https://ibb.co/f2rmSR)
+
+but , I finally found that using 600 max_features and Using Bernoulli's Naive Bayes gives me the best result :
+
+" there may be multiple features but each one is assumed to be a binary-valued (Bernoulli, boolean) variable. Therefore, this class requires samples to be represented as binary-valued feature vectors; if handed any other kind of data, a BernoulliNB instance may binarize its input (depending on the binarize parameter). " - Scikit learn Docs
+
+![Server fetching image down ](https://ibb.co/jMaKgm)
+
+
 
 
 
