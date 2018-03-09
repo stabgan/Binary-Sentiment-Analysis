@@ -21,7 +21,7 @@ but , I finally found that using 600 max_features and Using Bernoulli's Naive Ba
 ![Server fetching image down ](https://image.ibb.co/fMOSZ6/Screen_Shot_2018_01_17_at_12_26_36_AM.png)
 
 
-Check License before cmmnd-c, cmmnd-v .
+Check License.
 
 
 
