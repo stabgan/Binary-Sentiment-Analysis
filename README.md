@@ -6,7 +6,7 @@
 In this project I faced a challenge to select the correct Naive Bayes Model .I tried the classic ones like The 
 ## Gaussian Naive Bayes 
 
-![Server fetching image down ](https://qph.ec.quoracdn.net/main-qimg-116dbe9be09978ff474ace041079d1a0)
+![Server fetching image down ](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172-300x172.png)
 
 and 
 
